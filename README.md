@@ -3,12 +3,15 @@ E-commerce desenolvido durante bootcamp GoStack da Rocketseat. Aplicação criad
 
 Imagem da aplicação 
 
+<img src="Prev/prev01.png">
+</br>
+
+<img src="Prev/prev02.png">
+</br>
+
+<img src="Prev/prev03.png">
 <img src="Preview/prev01.png">
 </br>
 
-<img src="Preview/prev02.png">
-</br>
-
-<img src="Preview/prev03.png">
 </br>
 
