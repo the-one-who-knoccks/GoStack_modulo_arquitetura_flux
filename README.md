@@ -9,5 +9,5 @@ Imagem da aplicação
 <img src="Prev/prev02.png">
 </br>
 
-<img src="Prev/prev03.png">
+<img src="Prev/Screenshot_2020-02-23_19-38-55.png">
 </br>
