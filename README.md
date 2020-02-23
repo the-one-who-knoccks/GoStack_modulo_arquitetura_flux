@@ -10,8 +10,4 @@ Imagem da aplicação
 </br>
 
 <img src="Prev/prev03.png">
-<img src="Preview/prev01.png">
 </br>
-
-</br>
-
